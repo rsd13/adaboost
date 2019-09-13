@@ -1,0 +1,11 @@
+El programa, crea un fichero llamado resultados.txt donde pone los resultados de:
+1. El porcentaje que obtiene en cada iteracion de adaboost
+2. Los errores del aprendizaje
+3. El porcentaje final del aprendizaje
+4. Los errores del aprendizaje
+5. El porcentaje final del test.
+
+Las pruebas que he hecho, las he guardado en una carpeta llamada graficos, donde estan ordenados por el tamaño
+del testRate, dentro de ellas esta el fichero con los resultados, y un excel, donde esta graficas y los resultados.
+
+La creacion del fichero, y los datos de la grafica, por si lo quieres ver esta en la clase Practica2SI.
